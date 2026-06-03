@@ -31,4 +31,4 @@ Proje, birbiriyle ilişkili 3 temel tablodan oluşmaktadır:
 1. `tbl_hastalar` (Hasta Bilgileri)
 2. `tbl_doktorlar` (Doktor Bilgileri)
 3. `tbl_islemler` (Hasta ve Doktorları birbirine bağlayan ilişkisel ara tablo)
-4.
+
