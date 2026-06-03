@@ -1,0 +1,16 @@
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\bin\Debug\H_Yönetim.exe.config
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\bin\Debug\H_Yönetim.exe
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\bin\Debug\H_Yönetim.pdb
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.csproj.AssemblyReference.cache
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.Form1.resources
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.Properties.Resources.resources
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.csproj.GenerateResource.cache
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.csproj.CoreCompileInputs.cache
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.csproj.Up2Date
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.exe
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.pdb
+C:\Users\Fadime\OneDrive\Desktop\HastaneYönetim\H_Yönetim\H_Yönetim\obj\Debug\H_Yönetim.Form_HastaDoktor.resources
